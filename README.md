@@ -13,16 +13,16 @@ Automatically changes busylight color based on running processes.
 
 # Default Programs
 
-##Busy (Red)
-  -Zoom
-  -Teams
-  -OBS
-  -Discord
+## Busy (Red)
+  - Zoom
+  - Teams
+  - OBS
+  - Discord
   
-##Do Not Disturb (Blue)
-  -Chrome
-  -LibreOffice
-  -Nano
+## Do Not Disturb (Blue)
+  - Chrome
+  - LibreOffice
+  - Nano
   
 
 
