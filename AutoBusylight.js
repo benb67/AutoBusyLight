@@ -9,7 +9,7 @@ function checks(){
                 .then(function (list) {
                         if (!list.length) {
                                // console.log('obs not open');
-	find('name', 'zoom', true)
+	find('name', 'zoom', false)
 		.then(function (list) {
 			if (!list.length) {
 				//console.log('zoom not open');
